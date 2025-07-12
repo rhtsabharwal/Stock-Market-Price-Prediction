@@ -4,6 +4,8 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict the 
 
 
 
+
+
 ## 🧠 Project Overview
 
 - **Objective**: Predict future stock opening prices of AAPL using LSTM.
