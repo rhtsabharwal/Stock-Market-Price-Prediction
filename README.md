@@ -10,7 +10,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict the 
 - **Data Source**: [Yahoo Finance](https://finance.yahoo.com/)
 - **Model**: 4-layer LSTM with dropout to prevent overfitting.
 
-- 
+
 - **Libraries Used**: 
   - `pandas`, `numpy`
   - `matplotlib`
